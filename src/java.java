@@ -27,7 +27,7 @@ public class java {
         copy.add("nara");
         
         System.out.println(members);
-        System.out.println(copy );
+        System.out.println(copy);
         
         
         
