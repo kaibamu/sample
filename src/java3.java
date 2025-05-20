@@ -3,3 +3,4 @@ public class java3 {
 	        System.out.println("paiza");
 	    }
 	}
+//演習問題
